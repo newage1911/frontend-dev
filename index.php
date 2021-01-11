@@ -16,11 +16,13 @@
     <div class="container">
         <button class="btn btn-primary" >qwerty</button>
         <img src="image/dance.jpg" alt="">
+        <button class="btn btn-primary" >ASDFG</button>
+
     </div>
 
     <script>
         $(()=>{
-            alert("Hello");
+            //alert("Hello");
         }); 
 
     </script>
