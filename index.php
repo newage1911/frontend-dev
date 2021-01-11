@@ -9,11 +9,13 @@
     <link rel="stylesheet" href="css/mystyle.css">
     <script src="js/defualt.js"></script>
     <script src="js/jquery-3.5.1.min.js"></script>
+    <link rel="stylesheet" href="icon/css/all.css">
 
 </head>
 <body>
 
     <div class="container">
+    <i class="fab fa-accessible-icon"></i>
         <button class="btn btn-primary" >qwerty</button>
         <img src="image/dance.jpg" alt="">
         <button class="btn btn-primary" >ASDFG</button>
